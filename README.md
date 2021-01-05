@@ -14,6 +14,9 @@ It will calculate then the amount each person has to pay after taking into accou
 Welcome to the tip calculator!
 
 What was the total bill? $56
+
 How much tip would you like to give? 10, 12, or 15? 2
+
 How many people to split the bill?2
+
 Each person should pay: $28.56
